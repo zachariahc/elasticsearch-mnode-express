@@ -36,6 +36,10 @@ You can then head to the bottom of the file and add:
 http.cors.enabled : true
 http.cors.allow-origin : "*"
 
+## Repo run down
+
+This is one of the few good examples I could piece together using a vue front end with elasticsearch. If you find this I hope it helps. It was confusing even with the help of a good tutorial. After playing with things it becomes a lot more clear what is doing what and the many relationships that are being made. Elasticsearch is incredibly powerful and I'm excited to use it more.
+
 
 
 
